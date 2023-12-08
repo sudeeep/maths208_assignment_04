@@ -25,5 +25,5 @@ sigma_4X_plus_5Y = ((4 * sigma_X)**2 + (5 * sigma_Y)**2)**0.5
 # Print the results
 print(f"Mean and Standard Deviation for X + Y:  , mean :{mu_X_plus_Y}  , standard deviation:{sigma_X_plus_Y}")
 print(f"Mean and Standard Deviation for X - Y:  , mean:{mu_X_minus_Y}   , standard deviation {sigma_X_minus_Y}")
-print(f"Mean and Standard Deviation for 3X:     mean{ mu_3X }   , standard_deviation {sigma_3X}")
+print(f"Mean and Standard Deviation for 3X:     mean:{ mu_3X }   , standard_deviation {sigma_3X}")
 print(f"Mean and Standard Deviation for 4X + 5Y:, mean: {mu_4X_plus_5Y}  , standard deviation:{sigma_4X_plus_5Y}")
