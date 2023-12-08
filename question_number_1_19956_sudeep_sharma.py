@@ -20,8 +20,8 @@ percentile_c = 80
 min_length_top_20_percent = stats.norm.ppf(percentile_c / 100, mean, std_dev)
 
 # Displaying the results
-print( f"probality of less than 9 cm in percentage is { prob_less_than_9cm:2f}%") 
-print( f"probality betwee 9.5 cm and 10.6 cm  in percentage is { (prob_between_9_5_and_10_6cm)}%") 
-print( f"probality ofminimum lenght for top 20 %  {min_length_top_20_percent} ") 
+print( f"probality of  Americina Anochovies less than 9 cm in percentage is { prob_less_than_9cm:2f}%") 
+print( f"probality of Americian Anochives between  9.5 cm and 10.6 cm  in percentage is { (prob_between_9_5_and_10_6cm)}%") 
+print( f"probality of Americian Anochives minimum lenght for top 20 %  {min_length_top_20_percent} ") 
 
 
